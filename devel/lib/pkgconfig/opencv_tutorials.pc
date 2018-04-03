@@ -1,0 +1,8 @@
+prefix=/home/anshul/catkin_ws/devel
+
+Name: opencv_tutorials
+Description: Description of opencv_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anshul/catkin_ws/devel/lib 
+Requires: 
